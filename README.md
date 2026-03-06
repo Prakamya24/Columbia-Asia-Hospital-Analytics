@@ -91,13 +91,13 @@ A **Star Schema** data model was implemented to improve analytical performance.
 ## Dashboard Preview
 
 ### Main Dashboard
-![Main Dashboard](dashboards/main_dashboard.png)
+![Main Dashboard](Dashboard/doctors_dashboard.png)
 
 ### Doctors Dashboard
-![Doctors Dashboard](dashboards/doctors_dashboard.png)
+![Doctors Dashboard](Dashboard/main_dashboard.png)
 
 ### Patients Dashboard
-![Patients Dashboard](dashboards/patients_dashboard.png)
+![Patients Dashboard](Dashboard/patients_dashboard.png)
 
 ---
 
